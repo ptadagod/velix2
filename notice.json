@@ -1,6 +1,6 @@
 {
   "id": "2026-06-04-profiles",
-  "active": false,
-  "title": "Currently experincing issues.",
-  "message": "Our providers are currently down, will be back up soon. Sorry for the delay"
+  "active": true,
+  "title": "Playback issues.",
+  "message": "As this is a beta and an experiment, there are issues with the servers that i am working on getting fixed. "
 }
